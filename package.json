@@ -1,0 +1,22 @@
+{
+  "name": "orabb",
+  "version": "1.0.0",
+  "description": "orabb新建的",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guozhiqing/orabb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guozhiqing/orabb/issues"
+  },
+  "homepage": "https://github.com/guozhiqing/orabb#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
